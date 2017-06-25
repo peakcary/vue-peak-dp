@@ -9,6 +9,7 @@
               ref="player">
     </d-player>
   </div>
+  
 </template>
 
 <script>
