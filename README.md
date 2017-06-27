@@ -1,5 +1,7 @@
 # Vue-DPlayer
 
+peak
+
 > A Vue 2.x video player component based on [DPlayer](https://github.com/peakcary/vue-peak-dp).
 
 [Live Demo](https://sinchang.github.io/vue-dplayer/)
